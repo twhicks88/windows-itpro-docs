@@ -136,7 +136,7 @@ On-premises deployments provide users with the ability to reset forgotton PINs e
  1. On Windows 10, version 1709, click **I forgot my PIN** from the Windows Sign-in
  2. Enter your password and press enter.
  3. Follow the instructions provided by the provisioning process
- 4. When finished, unlock your desktop using your newly creeated PIN.
+ 4. When finished, unlock your desktop using your newly created PIN.
 
 >[!NOTE]
 > Visit the [Frequently Asked Questions](https://docs.microsoft.com/en-us/windows/access-protection/hello-for-business/hello-identity-verification#frequently-asked-questions) section of the Windows Hello for Business page and watch the **What happens when the user forgets their PIN?** video.
